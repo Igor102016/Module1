@@ -1,0 +1,5 @@
+[11/19/2016, 4:38:09 PM] layer "Right Arrow Circular Button. Attribute as Robin Kylander from Flaticon.com": Unsupported extension: com
+[11/19/2016, 4:38:09 PM] layer "Responsive Design For Modern Screens. Attribute as Freepik from Flaticon.com": Unsupported extension: com
+[11/19/2016, 4:38:09 PM] layer "Apple IPhone. Attribute as Freepik from Flaticon.com": Unsupported extension: com
+[11/19/2016, 4:38:09 PM] layer "Verification Checkmark Symbol In Black Circular Button. Attribute as Sebastien Gabriel from Flaticon.com": Unsupported extension: com
+[11/19/2016, 6:11:18 PM] layer "Link 1. Attribute as Freepik from Flaticon.com": Unsupported extension: com
